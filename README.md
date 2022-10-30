@@ -3,7 +3,7 @@ App for booking attractions around the world.
 The app is divided into part of the purchase and part of the businesses that advertise the attractions.
 You can create a user to purchase attractions, or create a business user to put your attractions up for sale.
 
-Using react native to UI and Node.js for the api.
+Using react native for the front-end and Node.js for the back-end.
 
 # Main Page
 ![UTravel_Screenshot1](https://user-images.githubusercontent.com/59603873/151355147-5ed29c91-b011-4ec3-adf7-1db9e7a5e9ea.jpg)
